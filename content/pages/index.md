@@ -22,7 +22,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Let's collaborate
         altText: ''
         url: /
         showIcon: false
