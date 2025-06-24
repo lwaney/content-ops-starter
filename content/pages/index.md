@@ -7,7 +7,7 @@ sections:
       text: 'Smart, innovative commercial support.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Based in Amsterdam, Waney Commercial Services helps businesses optimize
       their sales, gather actionable insights, and enhance retail execution.
