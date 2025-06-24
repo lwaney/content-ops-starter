@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Based in Amsterdam, Waney Commercial Services helps businesses optimize
+      their sales, gather actionable insights, and enhance retail execution.
+      With experience in account management, market research, and data, we
+      deliver fast, reliable, and insight-driven support tailored to your
+      commercial goals.
+
+
+      Whether you need product audits, customer surveys, or virtual sales
+      assistance — we make it happen.
+
+
+
     actions:
       - label: Get started
         altText: ''
