@@ -94,7 +94,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/linkedin_profile_photo.jpg
+      url: /images/20220617_181553.jpg
       altText: Dope design preview
     badge:
       type: Badge
