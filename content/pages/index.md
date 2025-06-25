@@ -95,7 +95,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/20220617_181553.jpg
-      altText: Dope design preview
+      altText: ''
       styles:
         self:
           borderWidth: 0
