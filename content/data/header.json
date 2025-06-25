@@ -102,10 +102,10 @@
                 "borderRadius": "xx-small",
                 "borderStyle": "dotted",
                 "margin": [
-                    "mt-20",
-                    "ml-20",
-                    "mb-20",
-                    "mr-20"
+                    "mt-72",
+                    "ml-72",
+                    "mb-72",
+                    "mr-72"
                 ]
             }
         }
