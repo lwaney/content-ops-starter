@@ -118,7 +118,7 @@ sections:
       - type: FeaturedItem
         title: Market research
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Data to improve
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
