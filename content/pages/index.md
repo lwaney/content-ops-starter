@@ -65,9 +65,7 @@ sections:
       type: TitleBlock
       text: Lucas Waney
       color: text-dark
-    subtitle: >-
-      Engineering student with hands-on experience in retail optimisation, sales
-      strategy and field marketing
+    subtitle: Engineering student | Retail strategist | Data-driven marketer
     text: >+
       I apply an engineering mindset to boost sales, uncover market insights and
       optimise retail distribution for forward-thinking brands worldwide.
