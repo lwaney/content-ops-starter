@@ -172,8 +172,11 @@ sections:
         title: Engineering services
         tagline: This is the tagline
         subtitle: Technical thinking for commercial impact
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          I apply an engineering mindset to boost retail performance, streamline
+          operations, and create practical solutions that drive business
+          forward.
+
         image:
           type: ImageBlock
           url: /images/pexels-clickerhappy-2069.jpg
