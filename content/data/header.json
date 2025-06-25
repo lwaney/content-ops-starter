@@ -1,26 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-0",
-                    "mt-0",
-                    "ml-0",
-                    "mb-0"
-                ],
-                "borderRadius": "none",
-                "padding": [
-                    "pr-0",
-                    "pl-0",
-                    "pt-0",
-                    "pb-0"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/Waney Commercial Services Logo Design.png"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
