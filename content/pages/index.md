@@ -65,7 +65,9 @@ sections:
       type: TitleBlock
       text: Lucas Waney
       color: text-dark
-    subtitle: Be in good company
+    subtitle: >-
+      I’M AN ENGINEERING STUDENT OFFERING INNOVATIVE, DATA-DRIVEN COMMERCIAL
+      SERVICES.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
