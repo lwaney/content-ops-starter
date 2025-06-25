@@ -91,16 +91,5 @@
                 "mr-0"
             ]
         }
-    },
-    "logo": {
-        "type": "ImageBlock",
-        "url": "/images/Waney Commercial Services Logo Design.png",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        }
     }
 }
