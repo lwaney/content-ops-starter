@@ -94,7 +94,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/linkedin_profile_photo.jpg
       altText: Dope design preview
     badge:
       type: Badge
