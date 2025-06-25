@@ -99,7 +99,13 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "margin": [
+                    "mt-7",
+                    "ml-7",
+                    "mb-7",
+                    "mr-7"
+                ]
             }
         }
     }
