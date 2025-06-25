@@ -96,6 +96,9 @@ sections:
       type: ImageBlock
       url: /images/20220617_181553.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderWidth: 2
     badge:
       type: Badge
       label: Meet Lucas Waney
