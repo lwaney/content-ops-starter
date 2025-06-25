@@ -66,8 +66,8 @@ sections:
       text: Lucas Waney
       color: text-dark
     subtitle: >-
-      I’M AN ENGINEERING STUDENT OFFERING INNOVATIVE, DATA-DRIVEN COMMERCIAL
-      SERVICES.
+      I'm an engineering student offering innovative, data-driven commercial
+      services.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
