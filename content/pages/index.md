@@ -63,7 +63,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Lucas Waney
       color: text-dark
       styles:
         self:
