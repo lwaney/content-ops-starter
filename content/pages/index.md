@@ -81,7 +81,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: See projects
         url: /
         showIcon: true
         icon: arrowRight
