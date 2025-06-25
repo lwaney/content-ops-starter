@@ -81,5 +81,15 @@
     "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": ""
+    "title": "",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-5",
+                "ml-5",
+                "mb-5",
+                "mr-5"
+            ]
+        }
+    }
 }
