@@ -99,7 +99,7 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "x-small"
+                "borderRadius": "xx-small"
             }
         }
     }
