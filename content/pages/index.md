@@ -103,7 +103,7 @@ sections:
           borderStyle: solid
     badge:
       type: Badge
-      label: Meet Lucas Waney
+      label: Meet
       color: text-primary
     colors: bg-light-fg-dark
     styles:
