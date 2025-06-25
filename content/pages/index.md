@@ -145,7 +145,7 @@ sections:
       - type: FeaturedItem
         title: Business services
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Smarter operations, stronger results'
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
