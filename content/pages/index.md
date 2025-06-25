@@ -66,8 +66,8 @@ sections:
       text: Lucas Waney
       color: text-dark
     subtitle: >-
-      I'm an engineering student offering innovative, data-driven commercial
-      services.
+      Engineering student with hands-on experience in retail optimisation, sales
+      strategy and field marketing
     text: >+
       I apply an engineering mindset to boost sales, uncover market insights and
       optimise retail distribution for forward-thinking brands worldwide.
