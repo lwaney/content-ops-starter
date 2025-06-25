@@ -99,6 +99,7 @@ sections:
       styles:
         self:
           borderWidth: 2
+          borderRadius: xx-small
     badge:
       type: Badge
       label: Meet Lucas Waney
