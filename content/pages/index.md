@@ -146,8 +146,10 @@ sections:
         title: Business services
         tagline: This is the tagline
         subtitle: 'Smarter operations, stronger results'
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          I support businesses in optimizing sales strategies and distribution
+          flows, focusing on efficiency, scalability, and long-term value.
+
         image:
           type: ImageBlock
           url: /images/pexels-ekrulila-19139388.jpg
