@@ -99,7 +99,8 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "xx-small"
+                "borderRadius": "xx-small",
+                "borderStyle": "dotted"
             }
         }
     }
