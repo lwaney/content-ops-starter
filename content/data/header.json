@@ -7,7 +7,10 @@
                 "margin": [
                     "mr-3"
                 ],
-                "borderRadius": "x-small"
+                "borderRadius": "x-small",
+                "padding": [
+                    "pr-1"
+                ]
             }
         },
         "type": "ImageBlock"
