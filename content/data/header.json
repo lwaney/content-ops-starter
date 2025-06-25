@@ -101,10 +101,10 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mt-7",
-                    "ml-7",
-                    "mb-7",
-                    "mr-7"
+                    "mt-12",
+                    "ml-12",
+                    "mb-12",
+                    "mr-12"
                 ],
                 "padding": [
                     "pt-0",
