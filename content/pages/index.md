@@ -147,7 +147,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/pexels-clickerhappy-2069.jpg
+          url: /images/pexels-ekrulila-19139388.jpg
           altText: Placeholder image
           styles:
             self:
