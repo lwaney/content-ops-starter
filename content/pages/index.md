@@ -140,7 +140,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Business
+        title: Business services
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
