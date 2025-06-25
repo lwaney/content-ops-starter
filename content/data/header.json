@@ -9,7 +9,8 @@
                 ],
                 "borderRadius": "x-small",
                 "padding": [
-                    "pr-1"
+                    "pr-1",
+                    "pl-1"
                 ]
             }
         },
