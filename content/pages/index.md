@@ -164,7 +164,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Business and Engineering
+        title: Engineering
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
