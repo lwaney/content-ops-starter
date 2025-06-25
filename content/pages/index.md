@@ -68,9 +68,16 @@ sections:
     subtitle: >-
       I'm an engineering student offering innovative, data-driven commercial
       services.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      I apply an engineering mindset to boost sales, uncover market insights and
+      optimise retail distribution for forward-thinking brands worldwide.
+
+
+
+
+
+
+
     actions:
       - type: Button
         label: Get started
