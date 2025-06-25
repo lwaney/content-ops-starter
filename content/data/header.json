@@ -100,7 +100,13 @@
         "styles": {
             "self": {
                 "borderRadius": "xx-small",
-                "borderStyle": "dotted"
+                "borderStyle": "dotted",
+                "margin": [
+                    "mt-2",
+                    "ml-2",
+                    "mb-2",
+                    "mr-2"
+                ]
             }
         }
     }
