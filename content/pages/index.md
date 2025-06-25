@@ -98,7 +98,7 @@ sections:
       altText: Dope design preview
       styles:
         self:
-          borderWidth: 2
+          borderWidth: 0
           borderRadius: xx-small
     badge:
       type: Badge
