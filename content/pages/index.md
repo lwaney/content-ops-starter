@@ -119,8 +119,11 @@ sections:
         title: Market research
         tagline: This is the tagline
         subtitle: Insight-driven decision making
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          Through targeted field research and data analysis, I help brands
+          uncover customer behaviour and sharpen their strategy for measurable
+          growth.
+
         image:
           type: ImageBlock
           url: /images/pexels-kaipro-28102788 (1).jpg
